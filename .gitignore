@@ -1,4 +1,9 @@
-*
-!Assets
-!ProjectSettings
 Assets/EngineAssemblage.avi
+*.csproj
+*.meta
+EngineAssemble-in-Unity-steamVR.sln
+Library/
+Logs/
+Packages/
+UserSettings/
+.vsconfig
